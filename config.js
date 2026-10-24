@@ -5,8 +5,8 @@
  */
 window.TECH_BUILDERS_CONFIG = {
   email: "kamalalakshar@gmail.com", // مثال: hello@yourcompany.com
-  whatsapp: "966937071553", // مثال: 9639XXXXXXXX
-  phone: "966937071553",
+  whatsapp: "963937071553", // مثال: 9639XXXXXXXX
+  phone: "963937071553",
   socials: {
     instagram: "kl6ar",
     facebook: "kl6ar",
